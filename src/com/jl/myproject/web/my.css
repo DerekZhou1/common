@@ -1,0 +1,4 @@
+@CHARSET "UTF-8";
+p.no{background-color: yellow;}
+p#no1{background-color: blue;}
+span p{background-color: red;}

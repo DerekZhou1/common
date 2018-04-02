@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+<DB>com.jl.myproject.desginPattern.Oracle</DB>  
+<!-- com.jl.myproject.desginPattern.Oracle -->
+<!-- com.jl.myproject.desginPattern.SqlServer -->
+</config>
